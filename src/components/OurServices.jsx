@@ -42,7 +42,7 @@ function OurServices() {
         <DescriptionA />
       </article>
       {/* xl:mx-10 2xl:mx-72 */}
-      <article className="flex  flex-col-reverse mt-40 md:mt-0 sm:flex-row sm:items-center sm:justify-around lg:mt-20 lg:mx-20 xl:mx-32 2xl:mx-44 ">
+      <article className="flex flex-col-reverse mt-40 md:mt-0 sm:flex-row sm:items-center sm:justify-around lg:mt-20 lg:mx-20 xl:mx-32 2xl:mx-44 ">
         <DescriptionB />
         <ImageContainerB />
       </article>
