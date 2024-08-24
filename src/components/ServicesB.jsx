@@ -1,4 +1,5 @@
-import musicNotation from "../assets/musicNotation.svg";
+// import musicNotation from "../../public/assets/musicNotation.svg";
+import musicNotation from "../../public/assets/musicNotation.svg";
 
 function ServicesB() {
   return (

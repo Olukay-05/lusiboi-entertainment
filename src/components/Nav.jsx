@@ -1,7 +1,9 @@
 import { useState } from "react";
 
-import navLogo from "../assets/navLogo.svg";
-import logo from "../assets/lusiboi.png";
+// Update the paths to reference assets in the public folder
+const navLogo = "/assets/navLogo.svg";
+const logo = "/assets/lusiboi.png";
+// const navLogo = "../../public/assets/navLogo.svg";
 
 const closeBtn = (
   <svg
@@ -45,7 +47,7 @@ function Nav() {
   }
 
   return (
-    <nav className=" flex items-center justify-between py-4  max-w-[1600px] mx-auto lg:mx-[9rem] px-4 ">
+    <nav className="flex items-center justify-between py-4 max-w-[1600px] mx-auto lg:mx-[9rem] px-4">
       <div>
         <img src={navLogo} alt="logo" className="w-15 md:w-32 lg:38" />
       </div>
@@ -65,11 +67,11 @@ function Nav() {
       <div
         className={
           nav
-            ? "fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full bg-stone-900 text-stone-200     ease-in-out duration-300"
-            : "fixed left-[-100%] "
+            ? "fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-full bg-stone-900 text-stone-200 ease-in-out duration-300"
+            : "fixed left-[-100%]"
         }
       >
-        <ul className="  pt-24 uppercase p-4">
+        <ul className="pt-24 uppercase p-4">
           <li className="p-4 border-b border-stone-600">Home</li>
           <li className="p-4 border-b border-stone-600">About</li>
           <li className="p-4 border-b border-stone-600">Our Services</li>

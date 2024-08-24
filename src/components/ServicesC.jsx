@@ -1,4 +1,6 @@
-import micro from "../assets/micro.svg";
+// import micro from "../assets/micro.svg";
+
+import micro from "../../public/assets/micro.svg";
 
 function ServicesC() {
   return (

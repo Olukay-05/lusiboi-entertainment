@@ -1,6 +1,6 @@
-import whiteImg from "../assets/maskWhite.svg";
-import blackImg from "../assets/maskBlack.svg";
-import luciboi from "../assets/lusiboi-lg.png";
+import whiteImg from "/assets/maskWhite.svg";
+import blackImg from "/assets/maskBlack.svg";
+import luciboi from "/assets/lusiboi-lg.png";
 
 function AboutUs() {
   return (

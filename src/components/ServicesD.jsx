@@ -1,4 +1,6 @@
-import canopy from "../assets/canopy.svg";
+// import canopy from "../assets/canopy.svg";
+
+import canopy from "../../public/assets/canopy.svg";
 
 function ServicesD() {
   return (

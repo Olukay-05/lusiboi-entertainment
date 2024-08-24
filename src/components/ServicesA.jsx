@@ -1,4 +1,6 @@
-import movieProjector from "../assets/movieProjector.svg";
+// import movieProjector from "../assets/movieProjector.svg";
+
+import movieProjector from "../../public/assets/movieProjector.svg";
 
 function ServicesA() {
   return (

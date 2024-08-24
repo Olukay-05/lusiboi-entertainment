@@ -1,5 +1,5 @@
-import movieProductionA from "../assets/movie-production-a.svg";
-import movieProductionB from "../assets/movie-production-b.svg";
+import movieProductionA from "../../public/assets/movie-production-a.svg";
+import movieProductionB from "../../public/assets/movie-production-b.svg";
 
 function ImageContainerB() {
   return (

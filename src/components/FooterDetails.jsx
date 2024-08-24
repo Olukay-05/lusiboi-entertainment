@@ -1,9 +1,21 @@
 import Button from "../reusable-component/Button";
-import instagram from "../assets/instagram.svg";
-import email from "../assets/email.svg";
-import tiktok from "../assets/tiktok.svg";
-import twitterX from "../assets/twitterX.svg";
-import footerLogo from "../assets/footerLogo.svg";
+// import instagram from "../assets/instagram.svg";
+// import email from "../assets/email.svg";
+// import tiktok from "../assets/tiktok.svg";
+// import twitterX from "../assets/twitterX.svg";
+// import footerLogo from "../assets/footerLogo.svg";
+
+import instagram from "../../public/assets/instagram.svg";
+import email from "../../public/assets/email.svg";
+import tiktok from "../../public/assets/tiktok.svg";
+// import twitterX from "../../public/assets/twitterX.svg";
+import footerLogo from "../../public/assets/footerLogo.svg";
+
+// import instagram from "/assets/instagram.svg";
+// import email from "/assets/email.svg";
+// import tiktok from "/assets/tiktok.svg";
+import twitterX from "/assets/twitterX.svg";
+// import footerLogo from "/assets/footerLogo.svg";
 
 function FooterDetails() {
   return (

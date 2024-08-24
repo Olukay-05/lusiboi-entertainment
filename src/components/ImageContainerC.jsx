@@ -1,6 +1,5 @@
-import movieProductionA from "../assets/movie-production-a.svg";
-import movieProductionB from "../assets/movie-production-b.svg";
-
+import movieProductionA from "../../public/assets/movie-production-a.svg";
+import movieProductionB from "../../public/assets/movie-production-b.svg";
 function ImageContainerC() {
   return (
     <article className="relative w-[15rem] h-[15rem] sm:w-0 sm:h-0 sm:mt-[28rem] mx-auto sm:mx-0 flex md:items-end md:justify-end xl:justify-center md:w-[68rem]  text-stone-200">
