@@ -25,7 +25,7 @@ function Hero() {
         <img src={luciboi} alt="image" className=" w-full" />
       </div>
 
-      <div className="absolute z-1 bottom--1 w-[12rem] left-0 sm:bottom-[-1.3rem] md:bottom-[-1.5rem] md:left-[0rem] lg:bottom-[-4rem] lg:left-[0rem] xl:bottom-[-2.5rem] lg:w-[20rem] xl:w-[25rem] 2xl:w-[30rem]">
+      <div className="absolute z-1 bottom--1 w-[12rem] left-0 sm:bottom-[-1.3rem] md:bottom-[-1.5rem] md:left-[0rem] lg:bottom-[-4rem] lg:left-[0rem] xl:bottom-[-2.5rem] lg:w-[20rem] xl:w-[25rem] 2xl:w-[26rem]">
         <img src={film} alt="film" className="w-full" />
       </div>
     </div>
